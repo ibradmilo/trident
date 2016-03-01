@@ -1,0 +1,44 @@
+{
+  "steps":[
+    {
+      "step":"background",
+      "img_elements":[],
+      "elements":[]
+    },{
+      "step":"f1",
+      "content":"",
+      "elements":[
+        {
+          "class":"video-container",
+          "content":""
+        }
+
+      ]
+    },{
+      "step":"f2",
+      "template_url":"html/f2.html"
+    },{
+      "step":"f3",
+      "template_url":"html/f3.html"
+    }
+  ],
+  "videos" :[
+    {
+      "id" : "video_main",
+      "thumb" : "video.thumb.jpg",
+      "media" : [
+        {
+          "url" : "//media.truex.com/video_assets/2016-02-29/8ba7ecf56062bcc8e1c14e6e25975278a5799902.mp4?preview=//media.truex.com/video_assets/2016-02-29/still_1_a72af2e8233521e57e4a0681148fa296ca94e561.jpg",
+          "type" : "video/mp4"
+        }
+      ]
+    }
+
+  ],
+  "additional_assets" : [
+    "bg.stars.jpg",
+    "button.play.png",
+    "button.replay.png",
+    "sprite.trident.01.png"
+  ]
+}
